@@ -75,7 +75,7 @@
 public Plugin:myinfo =
 {
 	name = "Stamm",
-	author = "Popoklopsi",
+	author = "Popoklopsi + Di",
 	version = g_sPluginVersionUpdate,
 	description = "A powerful VIP Addon with a lot of features",
 	url = "https://forums.alliedmods.net/showthread.php?t=142073"
