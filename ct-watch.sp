@@ -4,7 +4,7 @@
 #define PLUGIN_VERSION  "indev"
 public Plugin:myinfo = {
 	name = "Clocktown Watch",
-	author = "MasterOfTheXP | Edited by di",
+	author = "MasterOfTheXP + Di",
 	description = "And now you're older still.",
 	version = PLUGIN_VERSION,
 	url = "http://mstr.ca/"
